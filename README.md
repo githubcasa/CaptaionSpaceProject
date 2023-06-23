@@ -9,4 +9,4 @@ Three conversion tables have been defined:
 
 We used these tables to colorize the images according to the NDVI ranges used in the indexes:
 
- 
+![image](https://github.com/githubcasa/CaptaionSpaceProject/assets/57587705/b067c338-1e1b-438b-97e0-6a734973fb4b)]
